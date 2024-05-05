@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="powerpackage.PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-05T14:53:38" hostname="LAPTOP-6OKT0NLO" time="0.021">
+  <properties/>
+  <testcase name="shouldReturn9WhenBaseIs3AndExponentIs2()" classname="powerpackage.PowerFinderTest" time="0.013"/>
+  <testcase name="shouldReturn1WhenBaseIs1AndExponentIs1()" classname="powerpackage.PowerFinderTest" time="0.001"/>
+  <testcase name="shouldReturn2WhenBaseIs2AndExponentIs1()" classname="powerpackage.PowerFinderTest" time="0.001"/>
+  <testcase name="shouldReturn4WhenBaseIs2AndExponentIs2()" classname="powerpackage.PowerFinderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
